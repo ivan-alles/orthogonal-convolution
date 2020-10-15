@@ -1,1 +1,3 @@
-# orthogonal-convolution
+# Orthogonal convolution
+
+Experiments with kernel orthogonalization.
